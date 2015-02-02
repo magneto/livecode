@@ -1,0 +1,28 @@
+Some useful links to learn more about ArchLinux and its environment:
+
+official website:                       https://archlinux.org
+The Arch Way:                           https://wiki.archlinux.org/index.php/The_Arch_Way
+wiki:                                   https://wiki.archlinux.org
+Beginners’ guide:                       https://wiki.archlinux.org/index.php/Beginners%27_guide
+Arch compared to other distributions:   https://wiki.archlinux.org/index.php/Arch_compared_to_other_distributions
+projects:                               https://projects.archlinux.org/
+developer's team:                       https://www.archlinux.org/people/developers/
+disks images:                           http://mirror.archlinux.ikoula.com/archlinux/iso/latest/
+
+
+For more informations about notions covered during the course:
+
+virtual images disks:                   https://blogs.oracle.com/fatbloke/entry/virtualbox_virtual_disk_formats
+virtual box NAT:                        http://catlingmindswipe.blogspot.fr/2013/06/how-to-virtualbox-networking-part-two.html
+partition table MBR:                    https://wiki.archlinux.org/index.php/Master_Boot_Record
+partition tabl GPT:                     https://wiki.archlinux.org/index.php/GUID_Partition_Table
+filesystems:                            https://wiki.archlinux.org/index.php/File_systems
+journalising fs:                        http://en.wikipedia.org/wiki/Journaling_file_system
+ext4:                                   http://kernelnewbies.org/Ext4
+
+
+more:
+
+AUR:                                    https://wiki.archlinux.org/index.php/Arch_User_Repository
+yaourt:                                 https://archlinux.fr/yaourt-en
+install xserver:                        https://wiki.archlinux.fr/Xorg

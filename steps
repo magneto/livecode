@@ -1,0 +1,38 @@
+I. Installing on a virtual machine
+
+II. Initialisation
+  a. Change language
+  b. check connection
+  c. download latest updates
+
+III. Prepare the storage devices
+  a. Identify the devices
+  b. Partition table types
+  c. Partitioning tools
+  d. Create new partition table
+  e. Partition scheme
+
+IV. Create filesystems
+  a. Choose the right filesystem
+  b. Mount the partitions
+
+V. Select a mirror
+
+VI. Install the base system
+
+VII. Generate an fstab
+
+VIII. Chroot and configure the base system
+  a. Locale
+  b. Console font and keymap
+  c. Time Zone
+  d. Hardware clock
+  e. Kernel modules
+  f. hostname
+  e. Configure network (wired)
+  g. set the root password
+  h. Install and configure the bootloader
+
+IX. Unmount the partitions and reboot
+
+X. Post-installation

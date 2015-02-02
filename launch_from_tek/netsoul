@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+execf=./twix/jogsoul.pl
+conf=./twix/jogsoul.conf
+log=/tmp/jogsoul.log
+
+perl $execf $conf && sleep 2 && tail $log
